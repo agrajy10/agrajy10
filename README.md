@@ -4,7 +4,7 @@
 
 Currently working as a freelancer 👨‍💻 and residing in India <img src="https://raw.githubusercontent.com/yammadev/flag-icons/master/png/IN.png" />. I have completed **100+** projects with **5.0 star ratings** 🌟 on freelancer.com.  You can visit my profile [**here**](https://freelancer.com/u/agrajyadav "here").
 
-Other than building websites in HTML, CSS and Javascript I also have good experience in building and maintaining websites in WordPress.
+Apart from HTML, CSS and Javascript I can also build websites in WordPress.
 
 - 🌱 I am currently learning ReactJS.
 - 💬 Ask me about HTML, CSS and Javascript.
