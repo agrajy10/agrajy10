@@ -21,8 +21,70 @@ Always willing to learn from others not just as a developer but also as a person
 ---
 
 ## 🧰 Toolbox
-
-<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5" width="40" height="40"  /><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS3" width="50" height="50"  /><img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="50" height="50" alt="Bootstrap 5" /><img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="Javascript" width="40" height="40"  /><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="ReactJS" width="40" height="40"  /><img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="Tailwind CSS" width="40" height="40"  />  <img src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg" alt="WordPress" width="40" height="40"  /> <img src="https://cdn.worldvectorlogo.com/logos/npm.svg" alt="NPM" width="80" height="40"  />    <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" width="40" height="40"  /> 
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="#suhailkakar-tech">
+        <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="48" height="48" alt="HTML" />
+      </a>
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <a href="#suhailkakar-tech">
+        <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="48" height="48" alt="CSS" />
+      </a>
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <a href="#suhailkakar-tech">
+        <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="48" height="48" alt="Javascript" />
+      </a>
+      <br>Javascript
+    </td>
+    <td align="center" width="96">
+      <a href="#suhailkakar-tech">
+        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <a href="#suhailkakar-tech">
+        <img src="https://cdn.worldvectorlogo.com/logos/wordpress-icon-1.svg" width="48" height="48" alt="WordPress" />
+      </a>
+      <br>WordPress
+    </td>
+    <td align="center" width="96">
+      <a href="#suhailkakar-tech">
+        <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="#suhailkakar-tech">
+        <img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" width="48" height="48" alt="Styled Components" />
+      </a>
+      <br>Styled Components
+    </td>
+    <td align="center" width="96">
+      <a href="#suhailkakar-tech">
+        <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" width="48" height="48" alt="Tailwind CSS" />
+      </a>
+      <br>Tailwind CSS
+    </td>
+    <td align="center" width="96">
+      <a href="#suhailkakar-tech">
+        <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" width="48" height="48" alt="Firebase" />
+      </a>
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+      <a href="#suhailkakar-tech">
+        <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+  </tr>
+</table>
 
 ---
 
