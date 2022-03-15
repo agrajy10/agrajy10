@@ -6,9 +6,10 @@ A self-taught Frontend Developer from India <img src="https://raw.githubusercont
 
 Always willing to learn from others not just as a developer but also as a person 👦.
 
-- 🌱 I am currently learning ReactJS.
+- 🌱 I am currently learning React testing library.
 - 💬 Ask me about HTML, CSS and Javascript.
 - 📫 You can reach me at [agrajy10@gmail.com](mailto:agrajy10@gmail.com "agrajy10@gmail.com").
+- :computer: My portfolio :point_right:  http://agraj.dev/
 - ⚡ Out of tech world I am passionate about 🏏 cricket and like to watch movies based on  🎦 true stories.
 
 
