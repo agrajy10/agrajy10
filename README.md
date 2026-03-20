@@ -68,7 +68,6 @@
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/agrajyadav/
-- 🧑‍💻 GitHub: https://github.com/your-username  
 - 📧 Email: agrajy10@gmail.com 
 
 ---
