@@ -1,82 +1,70 @@
-# Agraj Yadav
+<h1 align="center">Hi 👋, I'm Agraj</h1>
+<h3 align="center">Full Stack Developer</h3>
 
-## Frontend Developer
-
-A self-taught Frontend Developer from India <img src="https://raw.githubusercontent.com/yammadev/flag-icons/master/png/IN.png" alt="Indian flag" /> with enthusiam for new technologies and trends. I build websites and web apps in HTML, CSS, Javascript and React. I also have proficiency in WordPress.
-
-Always willing to learn from others not just as a developer but also as a person 👦.
-
-- 🌱 I am currently learning React testing library.
-- 💬 Ask me about HTML, CSS and Javascript.
-- 📫 You can reach me at [agrajy10@gmail.com](mailto:agrajy10@gmail.com "agrajy10@gmail.com").
-- :computer: My portfolio :point_right:  http://agraj.dev/
-- ⚡ Out of tech world I am passionate about 🏏 cricket and like to watch movies based on  🎦 true stories.
-
-
-> “The only real mistake is the one from which we learn nothing.” – Henry Ford
-
+<p align="center">
+  🚀 Building high-performance web apps • ☁️ Cloud-native systems •⚡Clean & scalable architecture
+</p>
 
 ---
 
-## 🧰 Toolbox
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="48" height="48" alt="CSS" />
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="48" height="48" alt="Javascript" />
-      <br>Javascript
-    </td>
-    <td align="center" width="96">
-       <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="48" height="48" alt="Bootstrap" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <a href="#suhailkakar-tech">
-        <img src="https://cdn.worldvectorlogo.com/logos/wordpress-icon-1.svg" width="48" height="48" alt="WordPress" />
-      </a>
-      <br>WordPress
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="48" height="48" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" width="48" height="48" alt="Styled Components" />
-      <br>Styled Components
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" width="48" height="48" alt="Tailwind CSS" />
-      <br>Tailwind CSS
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="48" height="48" alt="Redux" />
-      <br>Redux
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" width="48" height="48" alt="Firebase" />
-      <br>Firebase
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-  </tr>
-</table>
+## 👨‍💻 About Me
+
+- 💡 Full Stack Developer with ~4 years of experience building **scalable, production-grade applications**
+- ⚙️ Strong in **backend systems, APIs, and data-intensive applications**
+- ☁️ Hands-on with **AWS serverless and cloud infrastructure**
+- 🤖 Leveraging **AI tools (GitHub Copilot)** to boost productivity and code quality
+- 📈 Focused on **performance optimization, system reliability, and clean code**
 
 ---
 
-## &#x1f4c8; My GitHub Stats
+## 🛠️ Tech Stack
 
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agrajy10&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### 🎨 Frontend
+![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
+![Redux](https://img.shields.io/badge/-Redux-black?style=flat&logo=redux)
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=agrajy10&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### 🔧 Backend
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-black?style=flat&logo=express)
+![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat&logo=graphql)
+![REST API](https://img.shields.io/badge/-REST-black?style=flat)
 
+### 🗄️ Database
+![ClickHouse](https://img.shields.io/badge/-ClickHouse-black?style=flat)
 
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat&logo=amazon-aws)
+![Lambda](https://img.shields.io/badge/-AWS%20Lambda-black?style=flat&logo=aws-lambda)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=flat&logo=github-actions)
+
+### 🧰 Tools & AI
+![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
+![Jira](https://img.shields.io/badge/-Jira-black?style=flat&logo=jira)
+![Apollo](https://img.shields.io/badge/-Apollo%20GraphQL-black?style=flat&logo=apollo-graphql)
+![Copilot](https://img.shields.io/badge/-GitHub%20Copilot-black?style=flat&logo=github)
+
+### 🧪 Testing
+![Jest](https://img.shields.io/badge/-Jest-black?style=flat&logo=jest)
+![Playwright](https://img.shields.io/badge/-Playwright-black?style=flat)
+
+---
+
+## 📜 Certifications
+
+![AWS Certified Developer](https://img.shields.io/badge/AWS%20Certified-Developer%20Associate-orange?style=flat&logo=amazon-aws)
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/agrajyadav/
+- 🧑‍💻 GitHub: https://github.com/your-username  
+- 📧 Email: your-email@example.com  
+
+---
